@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hoda Hany</h1>
 
 <h3 align="center">
-Computer Science & Artificial Intelligence Student | Aspiring Frontend & Full Stack Developer
+Computer Science & Artificial Intelligence Student | Aspiring Business Analyst
 </h3>
+
+<p align="center">
+Third-year Computer Science & Artificial Intelligence student at Cairo University 🇪🇬
+</p>
 
 ---
 
@@ -10,29 +14,34 @@ Computer Science & Artificial Intelligence Student | Aspiring Frontend & Full St
 
 🎓 Third-year Computer Science & Artificial Intelligence student at Cairo University.
 
-💻 Passionate about Web Development and Software Engineering.
+📊 Passionate about **Business Analysis**, **Cloud Technologies**, and solving real-world business problems.
 
-🌱 Currently learning **React.js**, improving my **Django** skills, and building full-stack projects.
+🌱 Currently learning **Business Analysis, React.js, Microsoft Azure, Docker, SQL, and REST APIs**.
 
-🚀 My goal is to become a professional Full Stack Developer.
+💻 Strong technical background in Web Development and Database Management.
+
+🎯 My goal is to become a professional **Business Analyst** with strong technical expertise.
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,python,django,git,github,vscode,linux,mysql" />
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,python,django,mysql,docker,azure,git,github,vscode,linux" />
 </p>
 
 ---
 
 ## 📚 Currently Learning
 
+- Business Analysis
 - React.js
+- Microsoft Azure
+- Docker
+- SQL & Database Design
 - REST APIs
 - Software Engineering
 - Data Structures & Algorithms
-- Git & GitHub Best Practices
 
 ---
 
@@ -42,9 +51,9 @@ Computer Science & Artificial Intelligence Student | Aspiring Frontend & Full St
 
 🎮 Games Collection (C++)
 
-🌐 Responsive Frontend Websites
+🌐 Responsive Web Applications
 
-💻 JavaScript Mini Projects
+🗄️ SQL Database Projects
 
 ---
 
@@ -62,18 +71,24 @@ Computer Science & Artificial Intelligence Student | Aspiring Frontend & Full St
 
 ## 🎯 2026 Goals
 
-- ✅ Build more Full Stack Projects
-- ✅ Learn React.js
-- ✅ Improve Django & REST APIs
-- ✅ Strengthen Problem Solving
-- ✅ Land my first internship
+- ✅ Earn the ECBA Certification
+- ✅ Strengthen my Business Analysis skills
+- ✅ Master SQL & Database Design
+- ✅ Improve my Azure & Cloud knowledge
+- ✅ Build real-world Business Analysis projects
+- ✅ Secure a Business Analyst Internship
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
-<a href="https://github.com/hodahany0">
-<img src="https://skillicons.dev/icons?i=github" height="45">
+<p align="left">
+<a href="https://github.com/hodahany0" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
 </a>
 
-<!-- Add your LinkedIn when you create one -->
+<a href="https://www.linkedin.com/in/hoda-hany" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+</a>
+
+</p>
