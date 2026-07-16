@@ -47,15 +47,21 @@ Third-year Computer Science & Artificial Intelligence student at Cairo Universit
 
 ## 🚀 Featured Projects
 
-📖 Online Library System (Django)
+- 📚 **[Games Collection](https://github.com/hodahany0/Assignment3-OOP)**
+  - Object-Oriented Programming project developed in C++.
 
-🎮 Games Collection (C++)
+- 📖 **[Online Library System](https://github.com/taherbasma13-hue/Web-Assignment-1.git)**
+  - Full-stack web application built with Django.
 
-🌐 Responsive Web Applications
+- 🌐 **[photo processing](https://github.com/hodahany0/OOP-Assignment-1.git)**
+  - Photo processing with C++.
 
-🗄️ SQL Database Projects
-
-💸 personal budgeting (Java & SQL)
+- 🗄️ **[The Boutique Publisher Author Portal](https://github.com/aya-yasser28/The-Boutique-Publisher-Author-Portal.git)**
+  - Database design and SQL practice projects.
+ 
+- 💸 **[Personal Budgetting](https://github.com/fayrouzaaaa/Personal-Budgetting-App.git)**
+  - Managing budget built with (Jave & SQL)
+ 
 
 ---
 
