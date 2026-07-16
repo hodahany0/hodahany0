@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hoda Hany</h1>
+<h1 align="center">Hi , I'm Hoda Hany</h1>
 
 <h3 align="center">
 Computer Science & Artificial Intelligence Student | Aspiring Business Analyst
@@ -10,7 +10,7 @@ Third-year Computer Science & Artificial Intelligence student at Cairo Universit
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 🎓 Third-year Computer Science & Artificial Intelligence student at Cairo University.
 
@@ -54,6 +54,8 @@ Third-year Computer Science & Artificial Intelligence student at Cairo Universit
 🌐 Responsive Web Applications
 
 🗄️ SQL Database Projects
+
+💸 personal budgeting (Java & SQL)
 
 ---
 
