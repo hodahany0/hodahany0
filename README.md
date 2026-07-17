@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Hoda Hany</h1>
 
 <h3 align="center">
-Computer Science & Artificial Intelligence Student | Aspiring Business Analyst
+Computer Science & Artificial Intelligence Student 
 </h3>
 
 <p align="center">
